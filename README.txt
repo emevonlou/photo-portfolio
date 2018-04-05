@@ -1,4 +1,4 @@
-#photo-portfolio
+# Photo Portfolio
 
 >A simple project to learn in a course on Udemy.
 
